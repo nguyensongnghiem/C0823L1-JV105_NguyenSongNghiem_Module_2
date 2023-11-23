@@ -20,7 +20,7 @@ public class NumberToText {
         int tens = dozens /10;
         int units = dozens - (tens*10);
         convertHundreds(hundreds);
-        if (dozens != 0) {
+        if ( hundreds !=0 && dozens != 0) {
             System.out.print(" and ");
         }
         convertTens(dozens);
