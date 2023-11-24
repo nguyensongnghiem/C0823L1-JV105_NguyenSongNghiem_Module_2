@@ -5,6 +5,7 @@ public class NumberToText {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter yours number : ");
+        System.out.print(" Out of range");
         int number = scanner.nextInt();
         if (number < 0 || number > 999) {
             System.out.print(" Out of range");
