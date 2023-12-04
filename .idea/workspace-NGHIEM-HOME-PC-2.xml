@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d2e5a77f-d58e-4a7d-bcd2-b59b1740138a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module 2/Session01/CurrencyExchange.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Module 2/Session01/CurrencyExchange.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module 2/Session01/Greetings.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Module 2/Session01/Greetings.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module 2/Session01/NumberToText.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Module 2/Session01/NumberToText.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module 2/Session02/PrimeNumbersUnder100.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Module 2/Session02/PrimeNumbersUnder100.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module 2/Session02/Print20PrimeNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Module 2/Session02/Print20PrimeNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module 2/Session02/ShapeDisplay.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Module 2/Session02/ShapeDisplay.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module 2/Session03/ArrayCombine.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Module 2/Session03/ArrayCombine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module 2/Session03/ArrayElementAdd.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Module 2/Session03/ArrayElementAdd.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module 2/Session03/ArrayElementDelete.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Module 2/Session03/ArrayElementDelete.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module 2/Session03/CharactorCounter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Module 2/Session03/CharactorCounter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module 2/Session03/MaxIn2DArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Module 2/Session03/MaxIn2DArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module 2/Session03/MinInArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Module 2/Session03/MinInArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module 2/Session03/SumArrayCol.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Module 2/Session03/SumArrayCol.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module 2/Session03/SumArrayCross.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Module 2/Session03/SumArrayCross.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module 2/Session04/MyClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module 2/Session04/QuadraticEquation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Module 2/Session04/QuadraticEquation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module 2/Session04/StopWatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Module 2/Session04/StopWatch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module 2/Session04/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module 2/Session04/TestStopWatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Module 2/Session04/TestStopWatch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module 2/Session04/testQuadratic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Module 2/Session04/testQuadratic.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2YWyGy904CBmoxJuHa488fYnNCL" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "I:/OneDrive - Mobifone/CodeGym/CodeGym Exercises/C0823L1-JV105_NguyenSongNghiem_Module_2",
+    "onboarding.tips.debug.path": "D:/OneDrive - Mobifone/CodeGym/CodeGym Exercises/Module 2/src/Main.java",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Session03" />
+      <recent name="Session02" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ArrayElementAdd">
+    <configuration name="ArrayElementAdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Session03.ArrayElementAdd" />
+      <module name="Module 2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Session03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayElementDelete" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Session03.ArrayElementDelete" />
+      <module name="Module 2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Session03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberToText" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Session01.NumberToText" />
+      <module name="Module 2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Session01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShapeDisplay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Session02.ShapeDisplay" />
+      <module name="Module 2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Session02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestStopWatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Session04.TestStopWatch" />
+      <module name="Module 2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Session04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ArrayElementAdd" />
+        <item itemvalue="Application.ArrayElementDelete" />
+        <item itemvalue="Application.TestStopWatch" />
+        <item itemvalue="Application.ShapeDisplay" />
+        <item itemvalue="Application.NumberToText" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d2e5a77f-d58e-4a7d-bcd2-b59b1740138a" name="Changes" comment="" />
+      <created>1700655540001</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700655540001</updated>
+    </task>
+    <servers />
+  </component>
+</project>
