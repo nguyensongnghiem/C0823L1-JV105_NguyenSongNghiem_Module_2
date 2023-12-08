@@ -1,29 +1,26 @@
-package session06.exers02;
+package session06.exers03;
 
-public class Point2D {
+public class Point {
     private float x = 0.0f;
     private float y = 0.0f;
-    public Point2D () {
+    public Point() {
+
     }
-    public Point2D(float x, float y) {
+    public Point(float x, float y){
         this.x = x;
-        this.y = y;
-    }
-
-    public float getX() {
-        return x;
-    }
-
+        this.y = y;        
+    } 
     public void setX(float x) {
         this.x = x;
     }
-
-    public float getY() {
-        return y;
+    public float getX() {
+        return x;
     }
-
     public void setY(float y) {
         this.y = y;
+    }
+    public float getY() {
+        return y;
     }
     public void setXY (float x, float y) {
         this.x = x;
