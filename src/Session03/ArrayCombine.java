@@ -41,7 +41,5 @@ public class ArrayCombine {
         for (int x:newArr) {
             System.out.print(x + " ; ");
         }
-
-
     }
 }
