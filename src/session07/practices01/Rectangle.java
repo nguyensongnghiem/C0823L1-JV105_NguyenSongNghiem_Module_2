@@ -1,6 +1,6 @@
 package session07.practices01;
 
-public class Rectangle extends Shape {
+public class Rectangle extends Shape implements Resizable, Colorable {
     private double width = 1.0;
     private double height = 1.0;
     public Rectangle(double width, double height) {
@@ -36,6 +36,15 @@ public class Rectangle extends Shape {
                 + getHeight()
                 + ", which is a subclass of "
                 + super.toString();
+    }
+    @Override
+    public void resize(double percent) {
+        setHeight(percent*getHeight()/100);
+        setWidth(percent*getWidth()/100);
+    }
+    @Override
+    public void howToColor() {
+        System.out.println("Paint all 4 sides !");
     }
 
 
