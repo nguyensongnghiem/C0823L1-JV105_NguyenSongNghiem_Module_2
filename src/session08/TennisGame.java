@@ -5,25 +5,14 @@ public class TennisGame {
     public static String getScore(String player1Name, String player2Name, int player1Score, int player2Score) {
         String score = "";
         int tempScore = 0;
-        final int ZERO = 0;
-        final int FIFTEEN = 1;
-        final int THIRTY = 2;
-        final int FORTY = 3;
+
+        String[] scoreStrings = { "Love", "Fifteen", "Thirty", "Forty" };
         boolean sameScore = player1Score == player2Score;
-        boolean hasAdvanced = player1Score >= FORTY || player2Score >= FORTY;
+        boolean hasAdvanced = player1Score >= 4 || player2Score >= 4;
         if (sameScore) {
             switch (player1Score) {
-            case ZERO:
-                score = "Love-All";
-                break;
-            case FIFTEEN:
-                score = "Fifteen-All";
-                break;
-            case THIRTY:
-                score = "Thirty-All";
-                break;
-            case FORTY:
-                score = "Forty-All";
+            case 0, 1, 2, 3:
+                score = scoreStrings[player1Score];
                 break;
             default:
                 score = "Deuce";
@@ -48,17 +37,8 @@ public class TennisGame {
                     tempScore = player2Score;
                 }
                 switch (tempScore) {
-                case ZERO:
-                    score += "Love";
-                    break;
-                case FIFTEEN:
-                    score += "Fifteen";
-                    break;
-                case THIRTY:
-                    score += "Thirty";
-                    break;
-                case FORTY:
-                    score += "Forty";
+                case 0, 1, 2, 3:
+                    score = scoreStrings[tempScore];
                     break;
                 }
             }
