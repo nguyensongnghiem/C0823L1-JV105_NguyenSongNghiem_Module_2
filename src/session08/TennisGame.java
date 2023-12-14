@@ -12,7 +12,7 @@ public class TennisGame {
         if (sameScore) {
             switch (player1Score) {
             case 0, 1, 2, 3:
-                score = scoreStrings[player1Score];
+                score = scoreStrings[player1Score] + " All";
                 break;
             default:
                 score = "Deuce";
