@@ -1,4 +1,4 @@
-package mvc.view;
+package mvc.model;
 
 public interface IAttendance {
     void rollCall();

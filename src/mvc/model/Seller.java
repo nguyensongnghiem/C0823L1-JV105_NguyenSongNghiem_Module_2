@@ -1,4 +1,4 @@
-package mvc.view;
+package mvc.model;
 
 public class Seller extends Employee implements IPlanGame {
 

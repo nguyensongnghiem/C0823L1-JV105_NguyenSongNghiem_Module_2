@@ -1,4 +1,4 @@
-package mvc.view;
+package mvc.model;
 
 public abstract class Person {
 
