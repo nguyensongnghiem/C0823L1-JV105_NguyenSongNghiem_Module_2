@@ -3,7 +3,7 @@ package mvc;
 import java.util.Scanner;
 import mvc.controller.StudentController;
 import mvc.model.Student;
-import mvc.model.imp.StudentModel;
+import mvc.service.imp.StudentModel;
 import mvc.view.imp.StudentView;
 
 public class Main {   

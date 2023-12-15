@@ -1,32 +1,34 @@
-package mvc.model.imp;
+package mvc.service.imp;
 
-import mvc.model.IStudentModel;
+import mvc.service.IStudentModel;
 import mvc.model.Student;
-import mvc.model.StudentDb;
+import mvc.repository.imp.StudentDb;
+import mvc.repository.IStudentDb;
+
 
 public class StudentModel implements IStudentModel {
-    
+    IStudentDb studentDb = new StudentDb();
     public StudentModel() {
 
     }
     @Override
     public Student[] getAll() {
-        return StudentDb.getAll(); // connect to DB and get all 
+        return studentDb.getAll(); // connect to DB and get all 
     }
 
     @Override
     public Student getStudentById(int studentId) {
-      return StudentDb.getStudentById(studentId);
+      return studentDb.getStudentById(studentId);
     }
 
     @Override
     public void deleteByStudentId(int studentId) {
-        StudentDb.deleteByStudentId(studentId);
+        studentDb.deleteByStudentId(studentId);
     }
 
     @Override
     public void addStudent(Student student) {
-        StudentDb.addStudent(student);
+        studentDb.addStudent(student);
     }
 
 }

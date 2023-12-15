@@ -1,7 +1,7 @@
 package mvc.controller;
-import mvc.model.IStudentModel;
+import mvc.service.IStudentModel;
 import mvc.model.Student;
-import mvc.model.imp.StudentModel;
+import mvc.service.imp.StudentModel;
 import mvc.view.IStudentView;
 import mvc.view.imp.StudentView;
 /**
