@@ -7,7 +7,8 @@ import mvc.model.Student;
 public interface IStudentModel {
 Student[] getAll();
     Student getStudentById(int studentId);
-    void deleteByStudentId(int studentId);
-    void addStudent(Student student);
+    String deleteStudentById(int studentId);
+    String addStudent(Student student);
+    boolean isStudentExisted (int studentId);
     
 }

@@ -44,13 +44,20 @@ public class StudentDb implements IStudentDb {
         for (int i = 0; i < students.length; i++) {
             if (students[i] != null && students[i].getStudentId() == id) {
                 for (int j = i; j < students.length - 1; j++) {
-                    students[j] = students[i + 1];
+                    students[j] = students[j + 1];
                 }
                 students[students.length - 1] = null;
-            } else {
                 break;
-            }
+            } 
+        }
+    }
 
+    @Override
+    public boolean isStudentIdExist(int studentId) {
+        if (getStudentById(studentId) != null) {
+            return true;
+        } else {
+            return false;
         }
     }
 

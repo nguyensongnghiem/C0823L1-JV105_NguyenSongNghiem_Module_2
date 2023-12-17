@@ -1,0 +1,238 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "CurrencyExchange",
+            "request": "launch",
+            "mainClass": "Session01.CurrencyExchange",
+            "projectName": "C0823L1-JV105_NguyenSongNghiem_Module_2_3a0c0955"
+        },
+        {
+            "type": "java",
+            "name": "Greetings",
+            "request": "launch",
+            "mainClass": "Session01.Greetings",
+            "projectName": "C0823L1-JV105_NguyenSongNghiem_Module_2_3a0c0955"
+        },
+        {
+            "type": "java",
+            "name": "NumberToText",
+            "request": "launch",
+            "mainClass": "Session01.NumberToText",
+            "projectName": "C0823L1-JV105_NguyenSongNghiem_Module_2_3a0c0955"
+        },
+        {
+            "type": "java",
+            "name": "PrimeNumbersUnder100",
+            "request": "launch",
+            "mainClass": "Session02.PrimeNumbersUnder100",
+            "projectName": "C0823L1-JV105_NguyenSongNghiem_Module_2_3a0c0955"
+        },
+        {
+            "type": "java",
+            "name": "Print20PrimeNumbers",
+            "request": "launch",
+            "mainClass": "Session02.Print20PrimeNumbers",
+            "projectName": "C0823L1-JV105_NguyenSongNghiem_Module_2_3a0c0955"
+        },
+        {
+            "type": "java",
+            "name": "ShapeDisplay",
+            "request": "launch",
+            "mainClass": "Session02.ShapeDisplay",
+            "projectName": "C0823L1-JV105_NguyenSongNghiem_Module_2_3a0c0955"
+        },
+        {
+            "type": "java",
+            "name": "ArrayCombine",
+            "request": "launch",
+            "mainClass": "Session03.ArrayCombine",
+            "projectName": "C0823L1-JV105_NguyenSongNghiem_Module_2_3a0c0955"
+        },
+        {
+            "type": "java",
+            "name": "ArrayElementAdd",
+            "request": "launch",
+            "mainClass": "Session03.ArrayElementAdd",
+            "projectName": "C0823L1-JV105_NguyenSongNghiem_Module_2_3a0c0955"
+        },
+        {
+            "type": "java",
+            "name": "ArrayElementDelete",
+            "request": "launch",
+            "mainClass": "Session03.ArrayElementDelete",
+            "projectName": "C0823L1-JV105_NguyenSongNghiem_Module_2_3a0c0955"
+        },
+        {
+            "type": "java",
+            "name": "CharactorCounter",
+            "request": "launch",
+            "mainClass": "Session03.CharactorCounter",
+            "projectName": "C0823L1-JV105_NguyenSongNghiem_Module_2_3a0c0955"
+        },
+        {
+            "type": "java",
+            "name": "MaxIn2DArray",
+            "request": "launch",
+            "mainClass": "Session03.MaxIn2DArray",
+            "projectName": "C0823L1-JV105_NguyenSongNghiem_Module_2_3a0c0955"
+        },
+        {
+            "type": "java",
+            "name": "MinInArray",
+            "request": "launch",
+            "mainClass": "Session03.MinInArray",
+            "projectName": "C0823L1-JV105_NguyenSongNghiem_Module_2_3a0c0955"
+        },
+        {
+            "type": "java",
+            "name": "SumArrayCol",
+            "request": "launch",
+            "mainClass": "Session03.SumArrayCol",
+            "projectName": "C0823L1-JV105_NguyenSongNghiem_Module_2_3a0c0955"
+        },
+        {
+            "type": "java",
+            "name": "SumArrayCross",
+            "request": "launch",
+            "mainClass": "Session03.SumArrayCross",
+            "projectName": "C0823L1-JV105_NguyenSongNghiem_Module_2_3a0c0955"
+        },
+        {
+            "type": "java",
+            "name": "TestFan",
+            "request": "launch",
+            "mainClass": "Session04.TestFan",
+            "projectName": "C0823L1-JV105_NguyenSongNghiem_Module_2_3a0c0955"
+        },
+        {
+            "type": "java",
+            "name": "TestStopWatch",
+            "request": "launch",
+            "mainClass": "Session04.TestStopWatch",
+            "projectName": "C0823L1-JV105_NguyenSongNghiem_Module_2_3a0c0955"
+        },
+        {
+            "type": "java",
+            "name": "testQuadratic",
+            "request": "launch",
+            "mainClass": "Session04.testQuadratic",
+            "projectName": "C0823L1-JV105_NguyenSongNghiem_Module_2_3a0c0955"
+        },
+        {
+            "type": "java",
+            "name": "TestCircle",
+            "request": "launch",
+            "mainClass": "Session05.TestCircle",
+            "projectName": "C0823L1-JV105_NguyenSongNghiem_Module_2_3a0c0955"
+        },
+        {
+            "type": "java",
+            "name": "TestStudent",
+            "request": "launch",
+            "mainClass": "Session05.TestStudent",
+            "projectName": "C0823L1-JV105_NguyenSongNghiem_Module_2_3a0c0955"
+        },
+        {
+            "type": "java",
+            "name": "MainStudent",
+            "request": "launch",
+            "mainClass": "mvc.MainStudent",
+            "projectName": "C0823L1-JV105_NguyenSongNghiem_Module_2_3a0c0955"
+        },
+        {
+            "type": "java",
+            "name": "ProductView",
+            "request": "launch",
+            "mainClass": "mvc.view.ProductView",
+            "projectName": "C0823L1-JV105_NguyenSongNghiem_Module_2_3a0c0955"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "questionmvc.Main",
+            "projectName": "C0823L1-JV105_NguyenSongNghiem_Module_2_3a0c0955"
+        },
+        {
+            "type": "java",
+            "name": "TestClass",
+            "request": "launch",
+            "mainClass": "session06.exers01.TestClass",
+            "projectName": "C0823L1-JV105_NguyenSongNghiem_Module_2_3a0c0955"
+        },
+        {
+            "type": "java",
+            "name": "Main(1)",
+            "request": "launch",
+            "mainClass": "session06.exers02.Main",
+            "projectName": "C0823L1-JV105_NguyenSongNghiem_Module_2_3a0c0955"
+        },
+        {
+            "type": "java",
+            "name": "Main(2)",
+            "request": "launch",
+            "mainClass": "session06.exers03.Main",
+            "projectName": "C0823L1-JV105_NguyenSongNghiem_Module_2_3a0c0955"
+        },
+        {
+            "type": "java",
+            "name": "Main(3)",
+            "request": "launch",
+            "mainClass": "session06.exers04.Main",
+            "projectName": "C0823L1-JV105_NguyenSongNghiem_Module_2_3a0c0955"
+        },
+        {
+            "type": "java",
+            "name": "TestColorable",
+            "request": "launch",
+            "mainClass": "session07.practices01.TestColorable",
+            "projectName": "C0823L1-JV105_NguyenSongNghiem_Module_2_3a0c0955"
+        },
+        {
+            "type": "java",
+            "name": "TestComparable",
+            "request": "launch",
+            "mainClass": "session07.practices01.TestComparable",
+            "projectName": "C0823L1-JV105_NguyenSongNghiem_Module_2_3a0c0955"
+        },
+        {
+            "type": "java",
+            "name": "TestComparator",
+            "request": "launch",
+            "mainClass": "session07.practices01.TestComparator",
+            "projectName": "C0823L1-JV105_NguyenSongNghiem_Module_2_3a0c0955"
+        },
+        {
+            "type": "java",
+            "name": "TestResizable",
+            "request": "launch",
+            "mainClass": "session07.practices01.TestResizable",
+            "projectName": "C0823L1-JV105_NguyenSongNghiem_Module_2_3a0c0955"
+        },
+        {
+            "type": "java",
+            "name": "JavaIo",
+            "request": "launch",
+            "mainClass": "session08.JavaIo",
+            "projectName": "C0823L1-JV105_NguyenSongNghiem_Module_2_3a0c0955"
+        },
+        {
+            "type": "java",
+            "name": "TestStudentManager",
+            "request": "launch",
+            "mainClass": "studentmanager.TestStudentManager",
+            "projectName": "C0823L1-JV105_NguyenSongNghiem_Module_2_3a0c0955"
+        }
+    ]
+}

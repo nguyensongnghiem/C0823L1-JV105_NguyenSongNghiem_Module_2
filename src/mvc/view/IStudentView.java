@@ -7,4 +7,6 @@ public interface IStudentView {
     void showAllStudents(Student[] students);
     void showStudent(Student student);
     int inputStudentId();
+    void showMessage(String message);
+    Student inputStudentInfo();
 }

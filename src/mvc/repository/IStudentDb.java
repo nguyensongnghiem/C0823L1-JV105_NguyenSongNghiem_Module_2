@@ -7,5 +7,6 @@ public interface IStudentDb {
     Student getStudentById ( int id );
     void addStudent(Student student);
     void deleteByStudentId(int id);
+    boolean isStudentIdExist(int studentId);
 
 }
